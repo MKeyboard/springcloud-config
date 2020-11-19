@@ -35,6 +35,7 @@ mybatis-plus:
   configuration:
     map-underscore-to-camel-case: true
     cache-enabled: false
+
 #是否swagger 开发测试开启，生产关闭
 swagger:
   enable: true
